@@ -1,0 +1,5 @@
+{
+  "exec": "cls && nim c -r b_methods.nim",
+  "watch": ["*.nim"],
+  "ext": "nim"
+}
